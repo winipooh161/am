@@ -1,0 +1,38 @@
+{
+  "_bootstrap-8bf4d4bd.js": {
+    "file": "assets/bootstrap-8bf4d4bd.js"
+  },
+  "_vendor-b1664d58.js": {
+    "file": "assets/vendor-b1664d58.js"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-d435a14c.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/css/pwa.css": {
+    "file": "assets/pwa-430a81f4.css",
+    "isEntry": true,
+    "src": "resources/css/pwa.css"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-d435a14c.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-d435a14c.css"
+    ],
+    "file": "assets/app-fc07e61c.js",
+    "imports": [
+      "_bootstrap-8bf4d4bd.js",
+      "_vendor-b1664d58.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/pwa.js": {
+    "file": "assets/pwa-d94fc05a.js",
+    "isEntry": true,
+    "src": "resources/js/pwa.js"
+  }
+}
